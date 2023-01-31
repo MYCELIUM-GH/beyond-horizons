@@ -1,4 +1,5 @@
 import { StrictMode } from "react";
+/* eslint eqeqeq: 0, curly: 2 */
 import { createRoot } from "react-dom/client";
 
 import App from "./App";
